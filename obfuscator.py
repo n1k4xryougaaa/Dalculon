@@ -1,5 +1,6 @@
 # ver test
 # obfuscator.py
+# Author : Ferly Afriliyan - Nyctophile` Ryougaa Hidekii [ n1k4xryougaa ]
 import os
 import marshal
 import zlib
