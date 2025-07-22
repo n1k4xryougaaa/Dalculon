@@ -1,3 +1,4 @@
+# ver test
 # obfuscator.py
 import os
 import marshal
